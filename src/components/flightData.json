@@ -1,0 +1,16 @@
+{
+    "flight": {
+      "flight_number": "AA123",
+      "departure": "Nairobi",
+      "destination": "Mombasa",
+      "departure_time": "2024-12-15T08:00:00",
+      "arrival_time": "2024-12-15T09:30:00",
+      "current_location": "Nairobi",
+      "status": "On time",
+      "distance": 400,  
+      "speed": 250,  
+      "altitude": 10000,
+      "progress": 0
+    }
+  }
+  
